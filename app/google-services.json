@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8586973671",
+    "project_id": "database-lecture-d31ee",
+    "storage_bucket": "database-lecture-d31ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8586973671:android:52b9644f96194281512d42",
+        "android_client_info": {
+          "package_name": "com.example.day13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8586973671-putolrogrs1l28frd63qb85d5ng35c7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOLMx0maWoepVAp9manZiKx5h9BHYthg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8586973671-putolrogrs1l28frd63qb85d5ng35c7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
